@@ -1,0 +1,21 @@
+{
+  "name": "sheikhs_atm_machine",
+  "version": "1.0.1",
+  "main": "main.js",
+  "type": "module",
+  "bin": {
+    "sheiks_atm_machine": "main.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "inquirer": "^9.3.4",
+    "sheikhs_atm_machine": "^1.0.1"
+  }
+}
